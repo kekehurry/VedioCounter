@@ -1,0 +1,4 @@
+imageai
+PyQt5
+opencv-python
+torch
